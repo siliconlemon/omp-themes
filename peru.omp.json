@@ -30,7 +30,7 @@
             "{{ if gt .Behind 0 }}#f450de{{ end }}"
           ],
           "options": {
-            "branch_icon": "\ue725",
+            "branch_icon": "\ue725 ",
             "fetch_status": true,
             "fetch_upstream_icon": true
           },
