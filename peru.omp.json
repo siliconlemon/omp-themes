@@ -31,6 +31,7 @@
           ],
           "options": {
             "branch_icon": "\ue725 ",
+            "commit_icon": "\uf417 ",
             "fetch_status": true,
             "fetch_upstream_icon": true
           },
